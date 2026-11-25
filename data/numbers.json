@@ -1,0 +1,58 @@
+{
+ "spec": {
+  "centre": [
+   -27.472,
+   153.027
+  ],
+  "shape": "circle",
+  "radius": 2000,
+  "preset": "warm",
+  "exaggeration": 1.5,
+  "table": 60,
+  "name": "Brisbane on a table"
+ },
+ "summary": {
+  "name": "Brisbane on a table",
+  "centre": [
+   -27.472,
+   153.027
+  ],
+  "shape": "circle",
+  "radius_m": 2000,
+  "preset": "warm",
+  "exaggeration": 1.5,
+  "table_cm": 60,
+  "scale": "1:6670",
+  "model_cm": {
+   "across": 60,
+   "tallest": 7.9
+  },
+  "buildings": 7886,
+  "heights_from_osm": 2712,
+  "heights_estimated": 5174,
+  "buildings_left_out": 505,
+  "left_out_why": "505 too small to see at 1:6670",
+  "tallest_m": 269.7,
+  "roads": 1313,
+  "water": 72,
+  "parks": 412,
+  "woods": 169,
+  "triangles": 113353,
+  "note": "66% of building heights are estimated (no height in OpenStreetMap). Heights are drawn 1.5 times true scale.",
+  "credit": "© OpenStreetMap contributors",
+  "licence": "Map data © OpenStreetMap contributors, available under the Open Database Licence (ODbL 1.0, opendatacommons.org/licenses/odbl). A model made from it is a produced work: credit OpenStreetMap wherever it is shown. Tiles: Protomaps."
+ },
+ "heights": {
+  "in_circle": 8264,
+  "measured": 2771,
+  "over_50": 227,
+  "over_100": 85,
+  "over_100_measured": 85,
+  "tallest_estimate_m": 14,
+  "median_m": 7
+ },
+ "estimated_share": 0.656,
+ "link": "https://app.plotlay.io/?tabletop=-27.47200,153.02700,2000,warm,1.5,60&name=Brisbane%20on%20a%20table",
+ "tiles": 18,
+ "read": "2026-11-26"
+}

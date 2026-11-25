@@ -1,0 +1,21 @@
+Brisbane on a table: central Brisbane as a round model to stand on a table in AR.
+Copyright 2026 Craig Muldoon. Made with Plotlay (https://www.getplotlay.com).
+
+CODE
+  method/check_model.py is licensed under the MIT licence (LICENSE).
+
+MODELS AND DATA (model/, data/)
+  The models and numbers are made from OpenStreetMap, which is under the Open Database Licence. The models are
+  Produced Works; data/numbers.json is a summary of the derived database. Both are offered under the Open Database
+  Licence 1.0 (LICENSE-DATA). Please credit: "Brisbane on a table: Plotlay (getplotlay.com), from OpenStreetMap
+  contributors".
+
+VISUALS (visuals/)
+  The pictures and the animation are Produced Works; they are licensed under Creative Commons Attribution 4.0
+  International. Keep this credit with them: "Plotlay (getplotlay.com). Map data (c) OpenStreetMap contributors, ODbL."
+
+UPSTREAM SOURCES AND CHANGES
+  OpenStreetMap: (c) OpenStreetMap contributors, Open Database Licence 1.0, https://www.openstreetmap.org/copyright.
+    Read through Plotlay's vector tiles (Protomaps' build of the OpenStreetMap planet) on 2026-11-26. Changes: cut to
+    a circle of 2,000 m radius; outlines simplified; small buildings and thin roads left out; heights estimated where
+    none is mapped; heights drawn 1.5 times true scale.
